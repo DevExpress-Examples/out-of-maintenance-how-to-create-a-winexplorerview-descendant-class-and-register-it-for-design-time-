@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MyGridControl.cs](./CS/MyWinExplorerView/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/MyWinExplorerView/MyGridControl.vb))**
+* [MyWinExplorerView.cs](./CS/MyWinExplorerView/MyWinExplorerView.cs) (VB: [MyWinExplorerViewHandler.vb](./VB/MyWinExplorerView/MyWinExplorerViewHandler.vb))
+* [MyWinExplorerViewHandler.cs](./CS/MyWinExplorerView/MyWinExplorerViewHandler.cs) (VB: [MyWinExplorerViewHandler.vb](./VB/MyWinExplorerView/MyWinExplorerViewHandler.vb))
+* [MyWinExplorerViewInfo.cs](./CS/MyWinExplorerView/MyWinExplorerViewInfo.cs) (VB: [MyWinExplorerViewInfo.vb](./VB/MyWinExplorerView/MyWinExplorerViewInfo.vb))
+* [MyWinExplorerViewInfoRegistrator.cs](./CS/MyWinExplorerView/MyWinExplorerViewInfoRegistrator.cs) (VB: [MyWinExplorerViewInfoRegistrator.vb](./VB/MyWinExplorerView/MyWinExplorerViewInfoRegistrator.vb))
+* [Program.cs](./CS/MyWinExplorerView/Program.cs) (VB: [Program.vb](./VB/MyWinExplorerView/Program.vb))
+<!-- default file list end -->
 # How to create a WinExplorerView descendant class and register it for design-time use
 
 
